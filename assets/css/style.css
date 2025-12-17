@@ -1,0 +1,54 @@
+html{
+	background : #A4A4A4;
+}
+
+body{
+  font-family : Arial, sans-serif;
+  background-color : #A4A4A4;
+  color : #000000;
+  margin : 20pt;
+  padding : 20pt;
+  border : 2pt solid black;
+}
+
+h1 { 
+     text-align : center;
+     color : black; 
+     margin : 5pt;
+     padding : 3pt;
+     width : 80%;
+     margin-left : auto;
+     margin-right : auto;
+     background : grey;
+   }
+   
+   
+
+table{
+	border: 2px solid black;
+	
+}
+
+td{
+     
+	 background : #E6E6E6;
+	 border: 2px solid white;
+	 color : black; 
+	 padding: 5px;
+
+}
+
+th{
+  background : #1C1C1C;
+  border: 2px solid white;
+  color : white; 
+  padding: 5px;
+}
+
+
+.site-footer {
+  text-align: center;
+  padding: 1rem 0;
+  color: #f00b0b;
+  font-size: 0.95rem;
+}
